@@ -1,2 +1,2 @@
-# C--nivel-iniciante
+# C++ nível iniciante
 primeiros códigos em c++.
