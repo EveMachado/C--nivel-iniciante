@@ -14,8 +14,8 @@ int main(){
 			if(s[i]>='0'&&s[i]<='9'){
 				ss<<s[i];
 			}
-			else{
-				ss<<' ';
+			else{            //Se o caractere for um número, o programa o adiciona a uma variável "stringstream" chamada "ss". 
+		          ss<<' ';       //Se o caractere não for um número, o programa adiciona um espaço em branco à "stringstream".                               
 			}
 		}
 		int a,b,c;
